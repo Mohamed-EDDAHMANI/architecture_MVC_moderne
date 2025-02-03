@@ -1,0 +1,15 @@
+{
+    "name": "hp/architecture_mvc_moderne",
+    "autoload": {
+        "psr-4": {
+            "Hp\\ArchitectureMvcModerne\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed-EDDAHMANI",
+            "email": "medd.eddahmani@gmail.com"
+        }
+    ],
+    "require": {}
+}
